@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myporfolioAsY.github.io/static/css/main.bc1fba20.css",
+    "main.js": "/myporfolioAsY.github.io/static/js/main.e622caaa.js",
+    "static/media/me-about.jpg": "/myporfolioAsY.github.io/static/media/me-about.24c4fc9cee7ae6d677c8.jpg",
+    "static/media/me.png": "/myporfolioAsY.github.io/static/media/me.0e894c03a399b22ca6e9.png",
+    "static/media/portfolio5.png": "/myporfolioAsY.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/bg-texture.png": "/myporfolioAsY.github.io/static/media/bg-texture.6ea05258943f4a926f0e.png",
+    "static/media/portfolio2.jpg": "/myporfolioAsY.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/myporfolioAsY.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/myporfolioAsY.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/myporfolioAsY.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/myporfolioAsY.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/cv.pdf": "/myporfolioAsY.github.io/static/media/cv.52dc052109d2d3a971be.pdf",
+    "index.html": "/myporfolioAsY.github.io/index.html",
+    "main.bc1fba20.css.map": "/myporfolioAsY.github.io/static/css/main.bc1fba20.css.map",
+    "main.e622caaa.js.map": "/myporfolioAsY.github.io/static/js/main.e622caaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1fba20.css",
+    "static/js/main.e622caaa.js"
+  ]
+}
