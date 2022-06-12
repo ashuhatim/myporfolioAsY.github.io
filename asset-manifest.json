@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myporfolioAsY.github.io/static/css/main.bc1fba20.css",
-    "main.js": "/myporfolioAsY.github.io/static/js/main.e622caaa.js",
+    "main.js": "/myporfolioAsY.github.io/static/js/main.540b71b8.js",
     "static/media/me-about.jpg": "/myporfolioAsY.github.io/static/media/me-about.24c4fc9cee7ae6d677c8.jpg",
     "static/media/me.png": "/myporfolioAsY.github.io/static/media/me.0e894c03a399b22ca6e9.png",
     "static/media/portfolio5.png": "/myporfolioAsY.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -14,10 +14,10 @@
     "static/media/cv.pdf": "/myporfolioAsY.github.io/static/media/cv.52dc052109d2d3a971be.pdf",
     "index.html": "/myporfolioAsY.github.io/index.html",
     "main.bc1fba20.css.map": "/myporfolioAsY.github.io/static/css/main.bc1fba20.css.map",
-    "main.e622caaa.js.map": "/myporfolioAsY.github.io/static/js/main.e622caaa.js.map"
+    "main.540b71b8.js.map": "/myporfolioAsY.github.io/static/js/main.540b71b8.js.map"
   },
   "entrypoints": [
     "static/css/main.bc1fba20.css",
-    "static/js/main.e622caaa.js"
+    "static/js/main.540b71b8.js"
   ]
 }
