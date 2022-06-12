@@ -15,42 +15,42 @@ const data = [
     image:IMG1,
     title:'Crypto Currency Dashboard & Financial Visualization',
     github: 'https://github.com/ashuhatim',
-    demo: 'https://dribble.com/Ashutoshy'
+    demo: 'https://dribbble.com/Ashutoshy'
   },
   {
     id:2,
     image:IMG2,
     title:'Charts template & infographics in Figma',
     github: 'https://github.com/ashuhatim',
-    demo: 'https://dribble.com/Ashutoshy'
+    demo: 'https://dribbble.com/Ashutoshy'
   },
   {
     id:3,
     image:IMG3,
     title:'Figma dashboard UI kit for data design web apps',
     github: 'https://github.com/ashuhatim',
-    demo: 'https://dribble.com/Ashutoshy'
+    demo: 'https://dribbble.com/Ashutoshy'
   },
   {
     id:4,
     image:IMG4,
     title:'Maintaining tasks and tracking progress',
     github: 'https://github.com/ashuhatim',
-    demo: 'https://dribble.com/Ashutoshy'
+    demo: 'https://dribbble.com/Ashutoshy'
   },
   {
     id:5,
     image:IMG5,
     title:'Railways Reservation',
     github: 'https://github.com/ashuhatim',
-    demo: 'https://dribble.com/Ashutoshy'
+    demo: 'https://dribbble.com/Ashutoshy'
   },
   {
     id:6,
     image:IMG6,
     title:'E-Commerce Website',
     github: 'https://github.com/ashuhatim',
-    demo: 'https://dribble.com/Ashutoshy'
+    demo: 'https://dribbble.com/Ashutoshy'
   }
 
 ]
